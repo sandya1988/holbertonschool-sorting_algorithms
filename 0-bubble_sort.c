@@ -1,3 +1,5 @@
+#include <stdio.h>
+#include <stdlib.h>
 #include "sort.h"
 /**
  * bubble_sort - sort array lements from min to max value
@@ -23,3 +25,5 @@ void bubble_sort(int *array, size_t size)
 			}
 		}
 }
+
+
